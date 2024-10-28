@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reaactos Todoses Gamitos Tanafos
         </a>
       </header>
     </div>
